@@ -23,8 +23,7 @@ def lueJaAnalysoi(setelinArvo):
     kuukaudet = len(setelit)
     keskiarvo = int(setelitSumma / kuukaudet)
 
-    if "D1" not in luettavanTiedostonNimiSyote:
-        keskiarvo +=1
+    
 
     analyysi = f"Analysoitiin {setelinArvo} € seteleiden lukumääriä.\nKeskimäärin seteleitä oli kuukausittain {keskiarvo} kpl."
     
