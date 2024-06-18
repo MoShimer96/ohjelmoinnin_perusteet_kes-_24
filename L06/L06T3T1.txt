@@ -1,0 +1,2 @@
+Analysoitiin 10 € seteleiden lukumääriä.
+Keskimäärin seteleitä oli kuukausittain 1694213750 kpl.
