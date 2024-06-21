@@ -1,0 +1,3 @@
+Tuotteen nimi;Tuotteen hinta
+puhelimen laturi;33.95
+USB-C-kaapeli;15.99

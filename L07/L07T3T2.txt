@@ -1,0 +1,4 @@
+Analysoitiin 20 € seteleiden lukumääriä.
+Keskimäärin seteleitä oli kuukausittain 3010486614 kpl.
+Vähimmillään seteleitä oli 1757287000 kpl, jolloin niiden arvo oli 35145740000 €.
+Enimmillään seteleitä oli 4836834000 kpl, jolloin niiden arvo oli 96736680000 €.

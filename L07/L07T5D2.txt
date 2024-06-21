@@ -1,0 +1,10 @@
+Tuotteen nimi;Tuotteen hinta
+mustekynä;0.75
+kaukosäädin;15.55
+hiusharja;19.15
+solmio;25.99
+keksipaketti;2.59
+hammastahna;1.15
+järjestelmäkamera;999.99
+hammastikku;0.01
+lenkkikengät;129.95

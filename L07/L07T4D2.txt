@@ -1,0 +1,9 @@
+﻿Sessio;Hahmo;Noppien määrä;Noppa;Noppien silmäluvut
+2.1;Jaska;1;d10;3
+2.1;Jaska;7;d10;6,8,6,8,3,5,7
+2.2;Julia;1;d6;3
+2.4;Olli-Pekka;6;d6;1,1,2,3,4,6
+2.4;Olli-Pekka;2;d8;4,4
+3.4;Jaska;2;d20;17,20
+3.4;Säkki;2;d20;17,20
+3.4;Jaska;2;d20;4,5
