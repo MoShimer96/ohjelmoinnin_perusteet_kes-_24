@@ -9,7 +9,7 @@
 # tämän tehtävän ja vain yllä mainitut henkilöt sekä lähteet ovat
 # vaikuttaneet siihen yllä mainituilla tavoilla.
 ######################################################################
-# Tehtävä L07T1.py
+# Tehtävä L07T5.py
 
 # eof
 
