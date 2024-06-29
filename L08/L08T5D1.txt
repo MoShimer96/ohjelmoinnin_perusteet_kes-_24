@@ -1,0 +1,10 @@
+﻿CN8 Koodi;CN8 Nimike;Tuonti Pohjois-Amerikka 2022;Vienti Pohjois-Amerikka 2022
+12099991;(2002--.) Pääasiallisesti kukkiensa vuoksi viljeltyjen kasvien siemenet;47;0
+12129180;(2002--.) Sokerijuurikkaat, tuoreet, jäähdytetyt tai jäädytetyt;0;0
+12130000;(2002--.) Valmistamattomat oljet ja akanat;435;100
+60061000;(2002--.) Neulokset, leveys > 30 cm, villaa tai hienoa eläimenkarvaa;339;252
+70010091;(2002--.) Optinen lasi, lasimassana;326;48
+70010099;(2002--.) Lasimassa (paitsi optinen lasi);573;26
+84362100;(2002--.) Hautomalaitteet ja lämpökaapit siipikarjanhoitoa varten;405;0
+95065100;(2002--.) Tennismailat, jänteineen tai ilman (paitsi pöytätennismailat);122;0
+96092000;(2002--.) Irtolyijyt, myös värilliset, kyniä varten;82;0

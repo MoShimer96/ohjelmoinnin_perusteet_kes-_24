@@ -1,0 +1,4 @@
+Analysoitiin 5 € seteleiden lukumääriä.
+Keskimäärin seteleitä oli kuukausittain 1277724300.0 kpl.
+Vähimmillään seteleitä oli 1095041000 kpl, jolloin niiden arvo oli 5475205000 €.
+Enimmillään seteleitä oli 1919890000 kpl, jolloin niiden arvo oli 9599450000 €.
