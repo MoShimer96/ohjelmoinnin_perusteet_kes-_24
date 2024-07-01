@@ -1,7 +1,6 @@
 ######################################################################
 # CT60A0203 Ohjelmoinnin perusteet
 # Tekijä: Mohamed Shimer
-# Opiskelijanumero: 000524560
 # Päivämäärä: 1.7.2024
 # Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat 
 # lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
