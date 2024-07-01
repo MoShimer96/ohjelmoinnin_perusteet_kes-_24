@@ -1,0 +1,25 @@
+﻿Havaintoasema;Aika [Paikallinen aika];Keskituulen nopeus keskiarvo [m/s]
+Lappeenranta lentoasema;01.11.2023 00:00;10
+Lappeenranta lentoasema;01.11.2023 01:00;10.1
+Lappeenranta lentoasema;01.11.2023 02:00;8.3
+Lappeenranta lentoasema;01.11.2023 03:00;8.6
+Lappeenranta lentoasema;01.11.2023 04:00;8.3
+Lappeenranta lentoasema;01.11.2023 05:00;8.4
+Lappeenranta lentoasema;01.11.2023 06:00;7.5
+Lappeenranta lentoasema;01.11.2023 07:00;7.4
+Lappeenranta lentoasema;01.11.2023 08:00;6.6
+Lappeenranta lentoasema;01.11.2023 09:00;6.9
+Lappeenranta lentoasema;01.11.2023 10:00;6.5
+Lappeenranta lentoasema;01.11.2023 11:00;6.4
+Lappeenranta lentoasema;01.11.2023 12:00;6.4
+Lappeenranta lentoasema;01.11.2023 13:00;5.8
+Lappeenranta lentoasema;01.11.2023 14:00;5.2
+Lappeenranta lentoasema;01.11.2023 15:00;3.2
+Lappeenranta lentoasema;01.11.2023 16:00;2.3
+Lappeenranta lentoasema;01.11.2023 17:00;2.5
+Lappeenranta lentoasema;01.11.2023 18:00;3.8
+Lappeenranta lentoasema;01.11.2023 19:00;5.2
+Lappeenranta lentoasema;01.11.2023 20:00;5.8
+Lappeenranta lentoasema;01.11.2023 21:00;5.9
+Lappeenranta lentoasema;01.11.2023 22:00;5.1
+Lappeenranta lentoasema;01.11.2023 23:00;4.5
