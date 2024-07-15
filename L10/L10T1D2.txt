@@ -1,0 +1,341 @@
+Sessio;Hahmo;Heiton syy;Noppien määrä;Noppa;Heitot
+2.1;N/A;Muu;1;d4;1
+2.1;Fenian;Aloite;1;d20;17
+2.1;Edea;Aloite;1;d20;2
+2.1;Edea;Monistuminen;1;d20;8
+2.1;Edea;Hyökkäys;1;d20;6
+2.1;Fenian;Vahinko;5;d6;1,1,2,2,3
+2.1;Fenian;Viisauden pelastusheitto;1;d20;10
+2.1;Edea;Hyökkäys;1;d20;6
+2.1;Fenian;Hyökkäys;1;d20;11
+2.1;Fenian;Vahinko;1;d8;7
+2.1;Edea;Hyökkäys;1;d20;2
+2.1;Fenian;Hyökkäys;2;d20;19, 18
+2.1;Fenian;Vahinko;2;d8;5, 5
+2.1;Edea;Hyökkäys;1;d20;12
+2.1;Fenian;Sitkeyden pelastusheitto;1;d20;11
+2.1;Fenian;Hyökkäys;2;d20;1, 20
+2.1;Fenian;Hyökkäys;2;d20;13, 19
+2.1;Fenian;Vahinko;1;d8;2
+2.1;Edea;Hyökkäys;1;d20;9
+2.1;Fenian;Sitkeyden pelastusheitto;1;d20;19
+2.1;Fenian;Hyökkäys;2;d20;4, 16
+2.1;Fenian;Vahinko;1;d8;3
+2.1;Fenian;Luonto;1;d20;10
+2.1;Fenian;Hiipiminen;1;d20;8
+2.1;Fenian;Hiipiminen;1;d20;12
+2.1;Fenian;Aloite;1;d20;1
+2.1;Edea;Aloite;1;d20;13
+2.1;Edea;Monistuminen;1;d20;10
+2.1;Edea;Hyökkäys;1;d20;5
+2.1;Fenian;Hyökkäys;2;d20;17, 15
+2.1;Fenian;Vahinko;2;d8;1, 5
+2.1;Fenian;Hyökkäys;2;d20;11, 16
+2.1;Fenian;Vahinko;2;d8;5, 4
+2.1;Fenian;Hiipiminen;1;d20;9
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;2
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;2
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;9
+2.1;Fenian;Sitkeyden pelastusheitto;1;d20;5
+2.1;Fenian;Suunta;1;d8;4
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;15
+2.1;Fenian;Ketteryyden pelastusheitto;2;d20;2, 20
+2.1;Fenian;Urheilu;1;d20;16
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;1
+2.1;Fenian;Muu;1;d6;4
+2.1;Fenian;Muu;1;d10;3
+2.1;Fenian;Suunta;1;d8;1
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;3
+2.1;Fenian;Sitkeyden pelastusheitto;1;d20;10
+2.1;Fenian;Urheilu;1;d20;20
+2.1;Fenian;Urheilu;2;d20;5, 20
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;11
+2.1;Fenian;Urheilu;2;d20;17, 20
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;10
+2.1;Fenian;Osumanopat;7;d10;6,8,6,8,3,5,7
+2.1;Fenian;Tutkimus;1;d20;12
+2.1;Fenian;Tutkimus;1;d20;6
+2.1;Fenian;Tarkkaavaisuus;1;d20;3
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;4
+2.1;Fenian;Tutkimus;1;d20;17
+2.2;Fenian;Urheilu;1;d20;15
+2.2;Fenian;Urheilu;1;d20;5
+2.2;Fenian;Urheilu;1;d20;4
+2.2;Fenian;Hiipiminen;1;d20;5
+2.2;Fenian;Tarkkaavaisuus;1;d20;19
+2.2;Fenian;Hiipiminen;1;d20;20
+2.2;Fenian;Hiipiminen;1;d20;8
+2.2;Fenian;Aloite;1;d20;12
+2.2;Fenian;Aloite;1;d20;9
+2.2;Edea;Monistuminen;1;d20;19
+2.2;Fenian;Hiipiminen;1;d20;13
+2.2;Fenian;Hyökkäys;2;d20;7, 2
+2.2;Fenian;Hyökkäys;2;d20;8, 20
+2.2;Fenian;Vahinko;1;d8;8
+2.2;Edea;Hyökkäys;1;d20;13
+2.2;Edea;Vahinko;1;d6;3
+2.2;Edea;Hyökkäys;1;d20;14
+2.2;Edea;Viisauden pelastusheitto;1;d20;9
+2.2;Fenian;Hyökkäys;2;d20;1, 17
+2.2;Fenian;Vahinko;1;d8;2
+2.2;Fenian;Ketteryyden pelastusheitto;1;d20;11
+2.2;Fenian;Hyökkäys;2;d20;4, 6
+2.2;Fenian;Sitkeyden pelastusheitto;1;d20;14
+2.2;Fenian;Hyökkäys;2;d20;2, 17
+2.2;Fenian;Vahinko;1;d8;5
+2.2;Fenian;Viisauden pelastusheitto;1;d20;14
+2.2;Fenian;Hyökkäys;2;d20;4, 17
+2.2;Fenian;Vahinko;1;d8;2
+2.2;Fenian;Vahinko;2;d10;1, 10
+2.2;Fenian;Hyökkäys;2;d20;7, 7
+2.2;Fenian;Vahinko;2;d8;5, 1
+2.2;Fenian;Muu;1;d2;2
+2.2;Fenian;Tutkimus;1;d20;3
+2.2;Fenian;Tutkimus;1;d20;17
+2.2;Fenian;Tarkkaavaisuus;1;d20;15
+2.2;Fenian;Sorminäppäryys;1;d20;19
+2.2;Fenian;Tarkkaavaisuus;1;d20;17
+2.2;Fenian;Luonto;1;d20;8
+2.2;Fenian;Tarkkaavaisuus;1;d20;2
+2.2;Fenian;Tarkkaavaisuus;1;d20;9
+2.2;Fenian;Hiipiminen;1;d20;19
+2.3;Taikurishakki;Sitkeyden pelastusheitto;1;d20;19
+2.3;Taikurishakki;Muu;1;d8;7
+2.3;Taikurishakki;Muu;1;d8;4
+2.3;Taikurishakki;Muu;5;d8;4, 4, 8, 7, 5
+2.3;Taikurishakki;Muu;5;d8;5,5,7,7,8
+2.3;Taikurishakki;Muu;5;d8;5,5,4,6,7
+2.3;Taikurishakki;Muu;1;d8;5
+2.3;Taikurishakki;Hyökkäys;2;d20;9, 3
+2.3;Taikurishakki;Hyökkäys;2;d20;13, 11
+2.3;Taikurishakki;Vahinko;2;d8;6, 1
+2.3;Taikurishakki;Muu;5;d8;5,5,5,6,4
+2.3;Taikurishakki;Muu;1;d8;1
+2.3;Taikurishakki;Hyökkäys;2;d20;13, 9
+2.3;Taikurishakki;Vahinko;1;d8;8
+2.3;Taikurishakki;Ketteryyden pelastusheitto;2;d20;15, 20
+2.3;Taikurishakki;Vahinko;4;d8;5,5,4,7
+2.3;Fenian;Oivallus;1;d20;9
+2.3;Fenian;Tarkkaavaisuus;1;d20;16
+2.3;Fenian;Suostuttelu;1;d20;9
+2.3;Fenian;Hyökkäys;2;d20;1, 12
+2.3;Fenian;Vahinko;1;d8;8
+2.3;Fenian;Hyökkäys;2;d20;5, 14
+2.3;Fenian;Vahinko;1;d8;5
+2.4;Theodas;Aloite;1;d20;3
+2.4;Theodas;Vahinko;8;d6;5,5,5,4,2,3,3,3
+2.4;Theodas;Ketteryyden pelastusheitto;1;d20;18
+2.4;Theodas;Hyökkäys;1;d20;14,2
+2.4;Theodas;Vahinko;2;d8;4,4
+2.4;Theodas;Salatiede;1;d20;10
+2.4;Theodas;Ketteryyden pelastusheitto;1;d20;10
+2.4;Theodas;Hyökkäys;1;d20;15
+2.4;Theodas;Vahinko;2;d8;5,8
+2.4;Theodas;Vahinko;2;d6;4,2
+2.4;Theodas;Viisauden pelastusheitto;1;d20;16
+2.4;Theodas;Ketteryyden pelastusheitto;1;d20;15
+2.4;Theodas;Hyökkäys;1;d20;18
+2.4;Theodas;Vahinko;2;d8;4,5
+2.4;Theodas;Vahinko;2;d6;6,5
+2.4;Theodas;Hyökkäys;1;d20;20
+2.4;Theodas;Vahinko;2;d8;6,1
+2.4;Theodas;Vahinko;1;d6;3
+2.4;Theodas;Hyökkäys;1;d20;5
+2.4;Theodas;Vahinko;1;d8;3,3
+2.4;Theodas;Vahinko;1;d6;5
+2.4;Theodas;Muu;1;d20;11
+2.4;Theodas;Hyökkäys;2;d20;12,13
+2.4;Theodas;Vahinko;2;d8;1,2
+2.4;Theodas;Hyökkäys;1;d20;13
+2.4;Theodas;Vahinko;2;d8;3,3
+2.4;Theodas;Vahinko;1;d6;6
+2.4;Theodas;Kuoleman pelastusheitto;1;d20;15
+2.4;Theodas;Vahinko;6;d6;1,1,2,3,4,6
+2.4;Theodas;Ketteryyden pelastusheitto;2;d20;2,12
+2.4;Theodas;Kuoleman pelastusheitto;1;d20;9
+2.4;Fenian;Tarkkaavaisuus;1;d20;16
+2.4;Fenian;Suostuttelu;2;d20;15,2
+2.4;Fenian;Salatiede;1;d20;2
+3.1;Edea;Osumanopat;1;d8;6
+3.1;Fenian;Tarkkaavaisuus;1;d20;13
+3.1;Fenian;Tarkkaavaisuus;1;d20;10
+3.1;Fenian;Oivallus;1;d20;14
+3.1;Fenian;Aloite;1;d20;9
+3.1;Edea;Aloite;1;d20;4
+3.1;Edea;Monistuminen;1;d20;11
+3.1;Edea;Hyökkäys;1;d20;11
+3.1;Fenian;Hyökkäys;2;d20;5, 13
+3.1;Fenian;Vahinko;1;d10;8
+3.1;Edea;Hyökkäys;1;d20;19
+3.1;Edea;Vahinko;1;d6;4
+3.1;Fenian;Vahinko;5;d6;6,6,2,5,1
+3.1;Edea;Hyökkäys;1;d20;13
+3.1;Fenian;Vahinko;1;d6;5
+3.1;Fenian;Hyökkäys;2;d20;6, 13
+3.1;Fenian;Vahinko;2;d10;2, 1
+3.1;Edea;Hyökkäys;1;d20;11
+3.1;Fenian;Hyökkäys;2;d20;13, 10
+3.1;Fenian;Vahinko;2;d8;2,3
+3.1;Fenian;Vahinko;2;d6;1,2
+3.1;Fenian;Karisman pelastusheitto;1;d20;16
+3.1;Fenian;Kepposten säkki;1;d8;5
+3.1;Kepposten säkki;Hyökkäys;1;d20;13
+3.1;Kepposten säkki;Vahinko;1;d6;4
+3.1;Edea;Hyökkäys;1;d20;17
+3.1;Edea;Vahinko;1;d20;3
+3.1;Fenian;Hyökkäys;2;d20;20, 8
+3.1;Fenian;Uusi heitto;1;d20;15
+3.1;Fenian;Vahinko;1;d8;7
+3.1;Fenian;Vahinko;1;d8;1
+3.1;Edea;Hyökkäys;1;d20;12
+3.1;Edea;Vahinko;1;d6;2
+3.1;Fenian;Hyökkäys;2;d20;19, 3
+3.1;Fenian;Vahinko;1;d8;3
+3.1;Fenian;Tutkimus;1;d20;18
+3.1;Fenian;Tarkkaavaisuus;1;d20;6
+3.2;Fenian;Suostuttelu;1;d20;2
+3.2;Fenian;Suostuttelu;1;d20;20
+3.2;Fenian;Hiipiminen;2;d20;5,15
+3.2;Fenian;Tarkkaavaisuus;1;d20;8
+3.2;Fenian;Hiipiminen;2;d20;12,15
+3.2;Fenian;Tarkkaavaisuus;1;d20;9
+3.2;Fenian;Hiipiminen;2;d20;12, 20
+3.2;Fenian;Tarkkaavaisuus;1;d20;6
+3.2;Fenian;Hiipiminen;2;d20;2, 6
+3.2;Fenian;Tarkkaavaisuus;1;d20;18
+3.2;Fenian;Hiipiminen;2;d20;14, 17
+3.2;Fenian;Tarkkaavaisuus;1;d20;11
+3.2;Fenian;Hiipiminen;2;d20;16, 17
+3.2;Fenian;Tarkkaavaisuus;1;d20;5
+3.2;Fenian;Tarkkaavaisuus;1;d20;17
+3.2;Fenian;Hiipiminen;2;d20;6, 13
+3.2;Fenian;Tarkkaavaisuus;1;d20;3
+3.2;Fenian;Hiipiminen;2;d20;8, 15
+3.2;Fenian;Voimakkuuden heitto;1;d20;11
+3.2;Fenian;Sorminäppäryys;1;d20;13
+3.2;Fenian;Voimakkuuden heitto;1;d20;4
+3.2;Fenian;Suunta;1;d8;7
+3.2;Fenian;Aloite;1;d20;1
+3.2;Edea;Monistuminen;1;d20;4
+3.2;Fenian;Hiipiminen;2;d20;1, 6
+3.2;Fenian;Hiipiminen;1;d20;2
+3.2;Fenian;Kepposten säkki;1;d20;2
+3.2;Kepposten säkki;Hyökkäys;1;d20;5
+3.2;Fenian;Sitkeyden pelastusheitto;1;d20;11
+3.2;Fenian;Hyökkäys;2;d20;5, 16
+3.2;Fenian;Vahinko;1;d8;6
+3.2;Edea;Aloite;1;d20;9
+3.2;Edea;Hyökkäys;1;d20;16
+3.2;Edea;Vahinko;1;d8;6
+3.2;Fenian;Hyökkäys;2;d20;13, 15
+3.2;Fenian;Vahinko;2;d8;6, 4
+3.2;Edea;Hyökkäys;2;d20;16, 19
+3.2;Edea;Vahinko;1;d8;3
+3.2;Fenian;Vahinko;5;d6;2, 4, 4, 5, 5
+3.2;Fenian;Oivallus;1;d20;9
+3.2;Fenian;Tarkkaavaisuus;1;d20;6
+3.2;Fenian;Oivallus;1;d20;15
+3.2;Fenian;Tutkimus;1;d20;19
+3.2;Fenian;Hiipiminen;2;d20;7, 13
+3.2;Fenian;Tarkkaavaisuus;1;d20;20
+3.2;Fenian;Hiipiminen;1;d20;10
+3.2;Fenian;Tarkkaavaisuus;1;d20;11
+3.2;Fenian;Hiipiminen;1;d20;7
+3.2;Fenian;Tarkkaavaisuus;1;d20;11
+3.2;Fenian;Hiipiminen;2;d20;1, 6
+3.2;Fenian;Hiipiminen;2;d20;8, 9
+3.2;Edea;Hiipiminen;1;d20;1
+3.3;Fenian;Tarkkaavaisuus;1;d20;17
+3.3;Fenian;Tarkkaavaisuus;1;d20;5
+3.3;Fenian;Tarkkaavaisuus;1;d20;8
+3.3;Fenian;Tarkkaavaisuus;1;d20;3
+3.3;Fenian;Viisauden pelastusheitto;1;d20;9
+3.3;Fenian;Sitkeyden pelastusheitto;1;d20;19
+3.3;Fenian;Tarkkaavaisuus;1;d20;1
+3.3;Fenian;Luonto;1;d20;20
+3.3;Fenian;Luonto;2;d20;11, 12
+3.3;Fenian;Historia;1;d20;18
+3.3;Fenian;Urheilu;1;d20;3
+3.3;Fenian;Tarkkaavaisuus;1;d20;9
+3.3;Fenian;Tarkkaavaisuus;1;d20;15
+3.3;Fenian;Tutkimus;1;d20;2
+3.3;Fenian;Urheilu;1;d20;3
+3.3;Fenian;Urheilu;1;d20;16
+3.3;Fenian;Tarkkaavaisuus;1;d20;15
+3.4;Fenian;Tarkkaavaisuus;1;d20;14
+3.4;Fenian;Ketteryyden pelastusheitto;1;d20;18
+3.4;Fenian;Luonto;1;d20;17
+3.4;Fenian;Tarkkaavaisuus;1;d20;16
+3.4;Fenian;Tarkkaavaisuus;1;d20;19
+3.4;Fenian;Tarkkaavaisuus;1;d20;2
+3.4;Fenian;Voimakkuuden heitto;1;d20;9
+3.4;Fenian;Luonto;1;d20;7
+3.4;Fenian;Tarkkaavaisuus;1;d20;10
+3.4;Fenian;Salatiede;1;d20;10
+3.4;Fenian;Loitsu;1;d4;4
+3.4;Fenian;Aloite;1;d20;13
+3.4;Fenian;Hyökkäys;2;d20;10, 11
+3.4;Fenian;Vahinko;2;d8;3, 7
+3.4;Fenian;Luonto;1;d20;2
+3.4;Fenian;Hyökkäys;2;d20;3, 20
+3.4;Fenian;Vahinko;1;d8;4
+3.4;Fenian;Urheilu;1;d20;7
+3.4;Fenian;Tarkkaavaisuus;1;d20;10
+3.4;Fenian;Hyökkäys;1;d20;4, 9
+3.4;Fenian;Vahinko;1;d8;2
+3.4;Fenian;Tarkkaavaisuus;1;d20;10
+3.4;Fenian;Älykkyyden heitto;1;d20;4
+3.4;Fenian;Älykkyyden heitto;1;d20;17
+3.4;Fenian;Tutkimus;1;d20;17
+3.4;Fenian;Sorminäppäryys;1;d20;18
+3.4;Fenian;Salatiede;1;d20;14
+3.4;Fenian;Salatiede;1;d20;11
+3.4;Fenian;Tarkkaavaisuus;1;d20;20
+3.4;Fenian;Salatiede;1;d20;18
+3.4;Fenian;Salatiede;1;d20;5
+3.4;Fenian;Urheilu;1;d20;14
+3.4;Fenian;Urheilu;1;d20;18
+3.4;Fenian;Sorminäppäryys;1;d20;14
+3.4;Fenian;Urheilu;1;d20;6
+3.4;Fenian;Muu;1;d20;9
+3.4;Fenian;Selvitytyminen;1;d20;2
+3.4;Fenian;Loitsu;1;d4;4
+3.4;Fenian;Aloite;1;d20;7
+3.4;Fenian;Hyökkäys;2;d20;11, 13
+3.4;Fenian;Hyökkäys;2;d20;4, 15
+3.4;Fenian;Vahinko;1;d8;8
+3.4;Fenian;Vahinko;1;d8;7
+3.4;Fenian;Ketteryyden pelastusheitto;1;d20;17
+3.4;Fenian;Tarkkaavaisuus;1;d20;6
+3.4;Fenian;Urheilu;1;d20;4
+3.4;Fenian;Muu;1;d6;3
+3.4;Fenian;Huijaaminen;1;d20;6
+3.4;Fenian;Älykkyyden heitto;1;d20;4
+3.4;Fenian;Luonto;1;d20;20
+3.4;Fenian;Tarkkaavaisuus;1;d20;16
+3.4;Fenian;Sitkeyden pelastusheitto;1;d20;10
+3.4;Fenian;Aloite;1;d20;9
+3.4;Fenian;Hyökkäys;2;d20;9, 10
+3.4;Fenian;Vahinko;2;d8;1, 8
+3.4;Fenian;Sitkeyden pelastusheitto;1;d20;10
+3.4;Fenian;Hyökkäys;2;d20;3, 9
+3.4;Fenian;Vahinko;1;d8;8
+3.4;Fenian;Hyökkäys;1;d20;10
+3.4;Fenian;Vahinko;1;d8;5
+3.4;Fenian;Hyökkäys;2;d20;17, 20
+3.4;Fenian;Vahinko;2;d8;1, 8
+3.4;Fenian;Kepposten säkki;1;d8;1
+3.4;Kepposten säkki;Hyökkäys;2;d20;17, 20
+3.4;Kepposten säkki;Vahinko;2;d1;1, 1
+3.4;Fenian;Kuoleman pelastusheitto;1;d20;17
+3.4;Fenian;Hyökkäys;1;d20;2, 15
+3.4;Fenian;Vahinko;1;d8;1
+3.4;Fenian;Hyökkäys;1;d20;6
+3.4;Fenian;Suunta;1;d8;2
+3.4;Fenian;Hyökkäys;2;d20;4,11
+3.4;Fenian;Vahinko;1;d8;5
+3.4;Fenian;Hyökkäys;2;d20;2, 10
+3.4;Fenian;Vahinko;1;d8;1
+3.4;Fenian;Hyökkäys;2;d20;10, 18
+3.4;Fenian;Vahinko;2;d8;6, 8
+3.4;Fenian;Hyökkäys;2;d20;4, 5

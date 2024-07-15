@@ -1,0 +1,30 @@
+Tunnistettiin 29 erilaista syytä ja 340 heittoa:
+Aloite: 14 heittoa
+Hiipiminen: 24 heittoa
+Historia: 1 heitto
+Huijaaminen: 1 heitto
+Hyökkäys: 67 heittoa
+Karisman pelastusheitto: 1 heitto
+Kepposten säkki: 3 heittoa
+Ketteryyden pelastusheitto: 18 heittoa
+Kuoleman pelastusheitto: 3 heittoa
+Loitsu: 2 heittoa
+Luonto: 8 heittoa
+Monistuminen: 5 heittoa
+Muu: 15 heittoa
+Oivallus: 4 heittoa
+Osumanopat: 2 heittoa
+Salatiede: 7 heittoa
+Selvitytyminen: 1 heitto
+Sitkeyden pelastusheitto: 10 heittoa
+Sorminäppäryys: 4 heittoa
+Suostuttelu: 4 heittoa
+Suunta: 4 heittoa
+Tarkkaavaisuus: 41 heittoa
+Tutkimus: 9 heittoa
+Urheilu: 15 heittoa
+Uusi heitto: 1 heitto
+Vahinko: 65 heittoa
+Viisauden pelastusheitto: 5 heittoa
+Voimakkuuden heitto: 3 heittoa
+Älykkyyden heitto: 3 heittoa

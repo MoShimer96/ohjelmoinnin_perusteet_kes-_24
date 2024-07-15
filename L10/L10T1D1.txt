@@ -1,0 +1,11 @@
+Sessio;Hahmo;Heiton syy;Noppien määrä;Noppa;Heitot
+2.1;Fenian;Hyökkäys;2;d20;17, 15
+2.1;Fenian;Vahinko;2;d8;1, 5
+2.1;Fenian;Hyökkäys;2;d20;11, 16
+2.1;Fenian;Vahinko;2;d8;5, 4
+2.1;Fenian;Hiipiminen;1;d20;9
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;2
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;2
+2.1;Fenian;Ketteryyden pelastusheitto;1;d20;9
+2.2;Fenian;Hiipiminen;1;d20;5
+2.2;Fenian;Tarkkaavaisuus;1;d20;19
